@@ -10,9 +10,9 @@
 
 ## Hardware
 
-For a working prototype (the stuff I got already)
+For a working prototype
 
 * 7" touch-screen
 * Raspberry PI Zero 2 W
-* Mounting plate [from aluminum, laser cut at Ponoko]([https://www.ponoko.com/materials](https://www.ponoko.com/materials?materialTypes=metal))
+* Mounting plate [from aluminum, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=metal)
 * Screen frame and backplate [from acrylic or wood, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=plastic,wood) and glued/dissolved together.
