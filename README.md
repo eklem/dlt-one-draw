@@ -6,7 +6,7 @@
 
 ### Software to be used:
 
-* Some stripped down Linux distribution. Ubuntu/Debian
+* Some stripped down Linux server distribution. Ubuntu/Debian
 * [X11 to run one application](https://raspberrypi.stackexchange.com/questions/11866/how-can-i-start-x11-only-for-a-single-application) (a browser) with graphical UI
 * Browser: Chromium or Firefox
 * [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app
