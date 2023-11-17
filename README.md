@@ -19,3 +19,10 @@ For a working prototype
 * Raspberry PI Zero 2 W
 * Mounting plate [from aluminum, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=metal)
 * Screen frame and backplate [from acrylic or wood, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=plastic,wood) and glued/dissolved together.
+
+## Upgrades for a second prototype
+
+* Built in battery
+* BMS / UPS for sleep/power/charge etc. - Either [PiJuice Zero](https://uk.pi-supply.com/products/pijuice-zero) or [Witty Pi 4 mini](https://www.uugear.com/product/witty-pi-4-mini/)
+* Larger screen
+
