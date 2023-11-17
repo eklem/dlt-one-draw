@@ -1,14 +1,17 @@
 # dlt-one-draw
 [Damn Linux Tablet one](https://github.com/timonsku/Damn-Linux-Tablet-PCB-Design-Files/)-inspired tablet. Project goal is to make a tablet that is better at drawing and syncing than reMarkable. 
 
-## Software to be used:
+
+## Prototype
+
+### Software to be used:
 
 * Some stripped down Linux distribution. Ubuntu/Debian
 * [X11 to run one application](https://raspberrypi.stackexchange.com/questions/11866/how-can-i-start-x11-only-for-a-single-application) (a browser) with graphical UI
 * Browser: Chromium or Firefox
 * [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app
 
-## Hardware
+### Hardware
 
 For a working prototype
 
