@@ -23,6 +23,6 @@ For a working prototype
 ## Upgrades for a second prototype
 
 * Built in battery
-* BMS / UPS for sleep/power/charge etc. - Either [PiJuice Zero](https://uk.pi-supply.com/products/pijuice-zero) or [Witty Pi 4 mini](https://www.uugear.com/product/witty-pi-4-mini/)
+* BMS / UPS for sleep/power/charge etc. - [PiJuice Zero](https://uk.pi-supply.com/products/pijuice-zero) seems to be able to do the work needed.
 * Larger screen
 
