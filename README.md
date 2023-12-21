@@ -30,6 +30,10 @@ For a working prototype
 
 Next step is to get the screen up and running properly, then get the touch input to work.
 
+| Screen and Raspberry Pi connected | Raspbian installed and running | Firefox showing on screen |
+|---|---|---|
+| ![Screen and Raspberry Pi connected](https://raw.githubusercontent.com/eklem/dlt-one-draw/trunk/IMG_20231219_182528.jpg) | ![Raspbian installed and running](https://github.com/eklem/dlt-one-draw/blob/trunk/IMG_20231219_182814.jpg?raw=true) | ![Firefox showing on screen](https://github.com/eklem/dlt-one-draw/blob/trunk/IMG_20231220_193450.jpg?raw=true) | 
+
 ## Upgrades for a second prototype
 
 * Built in battery
