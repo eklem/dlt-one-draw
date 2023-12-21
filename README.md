@@ -2,7 +2,7 @@
 [Damn Linux Tablet one](https://github.com/timonsku/Damn-Linux-Tablet-PCB-Design-Files/)-inspired tablet. Project goal is to make a tablet that is better than reMarkabel on three things:
 * Drawing for work puropses - Draw to communicate
 * Getiting those drawings into the rest of your workflow - Figma, Powerpoint etc.
-* Endless canvas - Get rid of the stupid paper limitation.
+* Endless canvas - If you want to draw more, you can do that. Not restricted to a physical format.
 
 ## Prototype
 
