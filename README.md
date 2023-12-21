@@ -1,6 +1,8 @@
 # dlt-one-draw
-[Damn Linux Tablet one](https://github.com/timonsku/Damn-Linux-Tablet-PCB-Design-Files/)-inspired tablet. Project goal is to make a tablet that is better at drawing and syncing than reMarkable. 
-
+[Damn Linux Tablet one](https://github.com/timonsku/Damn-Linux-Tablet-PCB-Design-Files/)-inspired tablet. Project goal is to make a tablet that is better than reMarkabel on three things:
+* Drawing for work puropses - Draw to communicate
+* Getiting those drawings into the rest of your workflow - Figma, Powerpoint etc.
+* Endless canvas - Get rid of the stupid paper limitation.
 
 ## Prototype
 
@@ -19,6 +21,14 @@ For a working prototype
 * Raspberry PI Zero 2 W
 * Mounting plate [from aluminum, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=metal)
 * Screen frame and backplate [from acrylic or wood, laser cut at Ponoko](https://www.ponoko.com/materials?materialTypes=plastic,wood) and glued/dissolved together.
+
+### Progress
+
+* Raspbian server version installed on Raspberry Pi Zero W
+* Connected to Manga Screen 2
+* Getting some graphical interface to show on the screen with X11.
+
+Next step is to get the screen up and running properly, then get the touch input to work.
 
 ## Upgrades for a second prototype
 
